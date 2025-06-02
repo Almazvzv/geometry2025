@@ -5,6 +5,7 @@
  * @brief Realization of a set of tests for the Graham scan algorithm
  */
 
+ 
 #include <httplib.h>
 #include <vector>
 #include <random>
